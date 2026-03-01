@@ -17,3 +17,4 @@
 * 🌱 Şu anda python öğreniyorum  
 * 💬 Bana bilgisayar  hakkında soru sorabilirsiniz 
 * 📫 Bana nasıl ulaşabilirsiniz: bayraktaryagiz670@gmail.com   
+<img width="50" src="https://simpleicons.org/icons/python.svg" alt="Örnek Resim"/>
