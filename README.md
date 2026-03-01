@@ -9,4 +9,11 @@
 <h3>yagizbayraktar</h3>
 <h4>yagizbayraktar</h4" 
 
-
+# yağızbayraktar
+### Merhaba 👋 
+* 👂 Benim adım Yağız 
+* 👩 ilgi alanlarım: bilgisiyar 
+* 🔭 Şu anda python yapay zeka eğitimi üzerinde çalışıyorum 
+* 🌱 Şu anda python öğreniyorum  
+* 💬 Bana bilgisayar  hakkında soru sorabilirsiniz 
+* 📫 Bana nasıl ulaşabilirsiniz: bayraktaryagiz670@gmail.com   
