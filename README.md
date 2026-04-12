@@ -1,3 +1,4 @@
+![dino](https://github.com/user-attachments/assets/f750d574-ca26-42f1-b44c-35675a49282e)
 **yağızbayraktar**
 ## instagram.com/yagiz.bayraktar1 
 <h1>yagizbayraktar</h1> 
@@ -27,3 +28,4 @@
 </picture>
 
 
+![dino](https://github.com/user-attachments/assets/5154ea2a-17bb-442d-9cdc-14894c957457)
